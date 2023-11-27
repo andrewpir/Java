@@ -1,0 +1,21 @@
+
+
+0o
+clique direito na pasta do programa e vai em abrir no terminal aqui
+
+
+1o não funciona pra mim mas é desse jeito
+path "C:\Program Files\Java\jdk-21\bin"
+
+2o
+dir *.java
+
+javac MeuPrimeiroProgramaJava.java
+
+3o
+dir *.class
+
+4o
+java MeuPrimeiroProgramaJava
+
+
